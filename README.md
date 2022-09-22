@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @rickymo
-- 👀 I’m interested in android development and Secure Coding.
+- 👋 Hi, I’m Ricky.
+- 👀 I’m interested in Android and Game Development.
+- 
